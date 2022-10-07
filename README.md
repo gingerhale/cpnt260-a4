@@ -6,3 +6,7 @@
 ## Above and Beyond
 - Locally hosted images: HTML line(17) & CSS line(89)
 - Linear gradient: CSS line(89)
+
+## Attributions
+- Background image: https://www.pexels.com/photo/aurora-borealis-360912/
+- Logo Icon: https://icons8.com/icons/set/vollleyball
